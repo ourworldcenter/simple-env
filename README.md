@@ -54,6 +54,8 @@ new SimpleEnv({
 // and ready to use
 ```
 
-## License
+## 🧑‍💻 Other Apps
 
-MIT
+Check out:
+
+- [Our World](https://ourworld.center/apps) (Official Website)
